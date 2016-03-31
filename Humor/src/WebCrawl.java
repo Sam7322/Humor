@@ -10,8 +10,7 @@ public class WebCrawl {
 		System.out.println(url);
 		}*/
 		
-//superpooping i think
-		
+
 		getContents(url);
 	
 		

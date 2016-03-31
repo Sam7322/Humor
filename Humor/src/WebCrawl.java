@@ -11,6 +11,8 @@ public class WebCrawl {
 		}*/
 		
 
+//Testing the push settings with this comment
+//final test commitpush to assure that this bullshit will be worth the waste of time.
 		getContents(url);
 	
 		

@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 
 public class WebCrawl {
-//wtfman123
+
 	public static void main(String[] args) {
 		String url = "https://www.reddit.com/r/cleanjokes";
 		/*for(int instances=0;instances<10;instances++){
@@ -10,10 +10,11 @@ public class WebCrawl {
 		System.out.println(url);
 		}*/
 		
-		System.out.println("wtf is happeningS");
+
 		
 		getContents(url);
-	//ASFD MAKING CHANGES HEREqwrqwer
+	
+		
 		//	for (int i = 100; i <= 500; i += 100) {
 			//String webpageHTML = getURL(url);
 			//System.out.println(webpageHTML);
